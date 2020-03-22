@@ -1,8 +1,8 @@
-[Start Screen2]
+[Start Screen]
 ・New game
 ・Settings
 ・Credits
-・Exit
+・Exit to Desktop
 --
 New game
 ==> Main Menu
@@ -10,7 +10,7 @@ Settings
 ==> Settings
 Credits
 ==> Credits
-Exit
+Exit to Desktop
 ==> Desktop
 
 
@@ -63,7 +63,7 @@ OK
 ・Missions
 ・Depart
 ・Settings
-・Exit
+・Exit to Desktop
 --
 Continue
 ==> Earth
