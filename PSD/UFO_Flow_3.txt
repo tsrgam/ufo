@@ -1,0 +1,150 @@
+[Start Screen2]
+・New game
+・Settings
+・Credits
+・Exit
+--
+New game
+==> Main Menu
+Settings
+==> Settings
+Credits
+==> Credits
+Exit
+==> Desktop
+
+
+[Main Menu]
+・Missions
+・Character
+・Collections
+・Options
+・Exit
+--
+Missions
+==> Missions
+Character
+==> Character
+Collections
+==> Collections
+
+[Collections]
+・Character
+・Items
+・Back
+--
+Back
+==> Main Menu
+
+[Character]
+Level
+Achievements
+・Back
+--
+Back
+==> Main Menu
+
+[Earth]
+・Ability Gauge
+--
+ESC
+==> Menu
+
+[Result]
+Items
+OK
+--
+OK
+==> Main Menu
+
+
+[Menu]
+・Continue
+・Missions
+・Depart
+・Settings
+・Exit
+--
+Continue
+==> Earth
+Depart
+==> Depart
+Settings
+==> Settings
+Exit
+==> Desktop
+
+[Depart]
+Are you sure?
+Yes
+No
+--
+Yes
+==> Result
+No
+==> Menu
+
+
+[Missions]
+・NPC
+・Message
+・Back
+--
+Accept
+==> Earth
+Decline
+==> Main Menu
+Back
+==> Main Menu
+
+[Settings]
+・Graphics
+・Sound
+・Controls
+・Close
+--
+Graphics
+==> Graphics
+Sound
+==> Sound
+Controls
+==> Controls
+
+[Graphics]
+・Resolution
+・Dysplay Mode
+・Graphics Quality
+・Brightness
+・Contrast
+・Default
+・Apply
+・Back
+--
+Back
+==> Settings
+
+[Sound]
+・Master Volume
+・Sound Effects
+・Ambient Sounds
+・Music
+・Default
+・Apply
+・Back
+--
+Back
+==> Settings
+
+[Controls]
+・Up W
+・Down S
+・Left A
+・Right D
+・Capture E
+・Menu ESC
+・Default
+・Apply
+・Back
+--
+Back
+==> Settings
