@@ -37,18 +37,21 @@ Back
 ==> Main Menu
 
 [Character]
-Level
-Achievements
+・Level
+・Achievements
 ・Back
 --
 Back
 ==> Main Menu
 
 [Earth]
+・Character
 ・Ability Gauge
 --
 ESC
 ==> Menu
+M
+==> Missions
 
 [Result]
 Items
@@ -67,12 +70,14 @@ OK
 --
 Continue
 ==> Earth
+Missions
+==> Missions
 Depart
 ==> Depart
 Settings
 ==> Settings
 Exit
-==> Desktop
+==> Exit
 
 [Depart]
 Are you sure?
@@ -81,6 +86,16 @@ No
 --
 Yes
 ==> Result
+No
+==> Menu
+
+[Exit]
+Are you sure?
+Yes
+No
+--
+Yes
+==> Desktop
 No
 ==> Menu
 
