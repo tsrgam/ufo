@@ -47,6 +47,7 @@ Back
 [Earth]
 ・Character
 ・Ability Gauge
+・Time
 --
 ESC
 ==> Menu
@@ -129,8 +130,7 @@ Controls
 ・Resolution
 ・Dysplay Mode
 ・Graphics Quality
-・Brightness
-・Contrast
+・Brightness（Gamma）
 ・Default
 ・Apply
 ・Back
