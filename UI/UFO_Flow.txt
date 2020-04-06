@@ -18,8 +18,8 @@ Exit to Desktop
 ・Missions
 ・Character
 ・Collections
-・Options
-・Exit
+・Settings
+・Exit to Desktop
 --
 Missions
 ==> Missions
@@ -27,6 +27,10 @@ Character
 ==> Character
 Collections
 ==> Collections
+Settings
+==> Settings
+Exit to Desktop
+==> Desktop
 
 [Collections]
 ・Character
