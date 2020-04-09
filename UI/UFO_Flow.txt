@@ -23,6 +23,8 @@ Exit to Desktop
 --
 Missions
 ==> Missions
+Shop
+==> Shop
 Character
 ==> Character
 Collections
