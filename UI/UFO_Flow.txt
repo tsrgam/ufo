@@ -16,6 +16,7 @@ Exit to Desktop
 
 [Main Menu]
 ・Missions
+・Shop
 ・Character
 ・Collections
 ・Settings
@@ -33,6 +34,7 @@ Settings
 ==> Settings
 Exit to Desktop
 ==> Desktop
+
 
 [Collections]
 ・Character
@@ -70,21 +72,39 @@ OK
 
 [Menu]
 ・Continue
-・Missions
+・Mission
+・Inventory
 ・Depart
 ・Settings
 ・Exit to Desktop
 --
-Continue
+Resume
 ==> Earth
-Missions
-==> Missions
+Mission
+==> Onging Mission
+Inventory
+==> Inventory
 Depart
 ==> Depart
 Settings
 ==> Settings
 Exit
 ==> Exit
+
+[Onging Mission]
+・NPC
+・Info
+・Back
+--
+Back
+==> Menu
+
+[Inventory]
+Items
+Back
+--
+Back
+==> Menu
 
 [Depart]
 Are you sure?
@@ -108,8 +128,19 @@ No
 
 
 [Missions]
+・Mission A
+・Back
+--
+Mission A
+==> Mission A
+Back
+==> Main Menu
+
+[Mission A]
 ・NPC
 ・Message
+・Accept
+・Decline
 ・Back
 --
 Accept
@@ -117,13 +148,13 @@ Accept
 Decline
 ==> Main Menu
 Back
-==> Main Menu
+==> Missions
 
 [Settings]
 ・Graphics
 ・Sound
 ・Controls
-・Close
+・Back
 --
 Graphics
 ==> Graphics
@@ -131,6 +162,8 @@ Sound
 ==> Sound
 Controls
 ==> Controls
+Back
+==> Menu
 
 [Graphics]
 ・Resolution
