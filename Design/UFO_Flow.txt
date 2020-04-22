@@ -1,0 +1,204 @@
+[Start Screen]
+・New game
+・Settings
+・Credits
+・Exit to Desktop
+--
+New game
+==> Main Menu
+Settings
+==> Settings
+Credits
+==> Credits
+Exit to Desktop
+==> Desktop
+
+
+[Main Menu]
+・Missions
+・Shop
+・Character
+・Collections
+・Settings
+・Exit to Desktop
+--
+Missions
+==> Missions
+Shop
+==> Shop
+Character
+==> Character
+Collections
+==> Collections
+Settings
+==> Settings
+Exit to Desktop
+==> Desktop
+
+
+[Collections]
+・Character
+・Items
+・Back
+--
+Back
+==> Main Menu
+
+[Character]
+・Level
+・Achievements
+・Back
+--
+Back
+==> Main Menu
+
+[Earth]
+・Character
+・Ability Gauge
+・Time
+--
+ESC
+==> Menu
+M
+==> Missions
+
+[Result]
+Items
+OK
+--
+OK
+==> Main Menu
+
+
+[Menu]
+・Continue
+・Mission
+・Inventory
+・Depart
+・Settings
+・Exit to Desktop
+--
+Resume
+==> Earth
+Mission
+==> Onging Mission
+Inventory
+==> Inventory
+Depart
+==> Depart
+Settings
+==> Settings
+Exit
+==> Exit
+
+[Onging Mission]
+・NPC
+・Info
+・Back
+--
+Back
+==> Menu
+
+[Inventory]
+Items
+Back
+--
+Back
+==> Menu
+
+[Depart]
+Are you sure?
+Yes
+No
+--
+Yes
+==> Result
+No
+==> Menu
+
+[Exit]
+Are you sure?
+Yes
+No
+--
+Yes
+==> Desktop
+No
+==> Menu
+
+
+[Missions]
+・Mission A
+・Back
+--
+Mission A
+==> Mission A
+Back
+==> Main Menu
+
+[Mission A]
+・NPC
+・Message
+・Accept
+・Decline
+・Back
+--
+Accept
+==> Earth
+Decline
+==> Main Menu
+Back
+==> Missions
+
+[Settings]
+・Graphics
+・Sound
+・Controls
+・Back
+--
+Graphics
+==> Graphics
+Sound
+==> Sound
+Controls
+==> Controls
+Back
+==> Menu
+
+[Graphics]
+・Resolution
+・Dysplay Mode
+・Graphics Quality
+・Brightness（Gamma）
+・Default
+・Apply
+・Back
+--
+Back
+==> Settings
+
+[Sound]
+・Master Volume
+・Sound Effects
+・Ambient Sounds
+・Music
+・Default
+・Apply
+・Back
+--
+Back
+==> Settings
+
+[Controls]
+・Up W
+・Down S
+・Left A
+・Right D
+・Capture E
+・Menu ESC
+・Default
+・Apply
+・Back
+--
+Back
+==> Settings
