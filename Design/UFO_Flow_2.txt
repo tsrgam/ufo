@@ -1,0 +1,175 @@
+[Main Menu]
+・Play
+・Collection
+・Options
+・Exit
+--
+Play
+==> Play
+Collection
+==> Collection
+Options
+==> Options
+Exit
+==> Desktop 
+
+[Play]
+・Mission Mode
+・Explore Mode
+・Back
+--
+Mission Mode
+==> Mission Select
+Explore Mode
+==> Destination Select
+Back
+==> Main Menu
+
+[Mission Select]
+・Missions
+・Start
+・Abandon
+・Back
+--
+Start
+==> Earth
+Abandon
+==> Abandon
+Back
+==> Play
+
+[Abandon]
+Are you sure?
+Yes
+No
+
+[Destination Select]
+・Destinations
+・Select
+・Back
+--
+Select
+==> Earth
+Back
+==> Play
+
+[Collection]
+・Items
+・Achievements
+・Back
+--
+Back
+==> Main Menu
+
+
+[Earth]
+・Character
+・Ability Gauge
+・Mission
+--
+ESC
+==> Menu
+I
+==> Inventory
+
+[Result]
+Items
+OK
+--
+OK
+==> Main Menu 
+
+[Menu]
+・Continue
+・Depart
+・Options
+・Exit
+--
+Resume
+==> Earth
+Depart
+==> Depart
+Options
+==> Options
+Exit
+==> Exit
+
+
+[Inventory]
+Items
+Back
+--
+Back
+==> Earth
+
+[Depart]
+Are you sure?
+Yes
+No
+--
+Yes
+==> Result
+No
+==> Menu
+
+
+[Exit]
+Are you sure?
+Yes
+No
+--
+Yes
+==> Desktop
+No
+==> Menu
+
+[Options]
+・Graphics
+・Sound
+・Controls
+・Back
+--
+Graphics
+==> Graphics
+Sound
+==> Sound
+Controls
+==> Controls
+Back
+==> Menu
+
+
+[Graphics]
+・Resolution
+・Dysplay Mode
+・Graphics Quality
+・Brightness（Gamma）
+・Default
+・Back
+--
+Back
+==> Options
+
+[Sound]
+・Master Volume
+・Sound Effects
+・Ambient Sounds
+・Music
+・Default
+・Back
+--
+Back
+==> Options
+
+[Controls]
+・Up W
+・Down S
+・Left A
+・Right D
+・Capture E
+・Menu ESC
+・Default
+・Back
+--
+Back
+==> Options
