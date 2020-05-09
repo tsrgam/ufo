@@ -81,7 +81,7 @@ OK
 Resume
 ==> Earth
 Mission
-==> Onging Mission
+==> Ongoing Mission
 Inventory
 ==> Inventory
 Depart
@@ -91,7 +91,7 @@ Settings
 Exit
 ==> Exit
 
-[Onging Mission]
+[Ongoing Mission]
 ・NPC
 ・Info
 ・Back
@@ -128,17 +128,17 @@ No
 
 
 [Missions]
-・Mission A
+・Missions
 ・Back
 --
-Mission A
-==> Mission A
+Mission
+==> Mission
 Back
 ==> Main Menu
 
-[Mission A]
+[Mission]
 ・NPC
-・Message
+・Request
 ・Accept
 ・Decline
 ・Back
@@ -146,7 +146,7 @@ Back
 Accept
 ==> Earth
 Decline
-==> Main Menu
+==> Missions
 Back
 ==> Missions
 

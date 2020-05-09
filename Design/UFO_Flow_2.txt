@@ -1,3 +1,10 @@
+
+[Start Screen]
+Press any key to start
+--
+Any key
+==> Main Menu
+
 [Main Menu]
 ・Play
 ・Collection
@@ -28,33 +35,26 @@ Back
 [Mission Select]
 ・Missions
 ・Start
-・Abandon
 ・Back
 --
 Start
 ==> Earth
-Abandon
-==> Abandon
 Back
 ==> Play
 
-[Abandon]
-Are you sure?
-Yes
-No
-
 [Destination Select]
 ・Destinations
-・Select
+・Start
 ・Back
 --
-Select
+Start
 ==> Earth
 Back
 ==> Play
 
 [Collection]
-・Items
+・Locker
+・Collectibles
 ・Achievements
 ・Back
 --
@@ -63,18 +63,21 @@ Back
 
 
 [Earth]
-・Character
 ・Ability Gauge
-・Mission
+・Mission Progress
 --
 ESC
 ==> Menu
 I
 ==> Inventory
+Hold B
+==> Result
 
 [Result]
-Items
-OK
+・Items
+・Score (Mission Mode)
+・Reward (Mission Mode)
+・OK
 --
 OK
 ==> Main Menu 
@@ -96,16 +99,17 @@ Exit
 
 
 [Inventory]
-Items
-Back
+・Items (max 18)
+・Back
 --
+Right Click an item
+==> Discard
 Back
 ==> Earth
 
 [Depart]
-Are you sure?
-Yes
-No
+・Are you sure?
+・Yes/No
 --
 Yes
 ==> Result
@@ -166,7 +170,8 @@ Back
 ・Down S
 ・Left A
 ・Right D
-・Capture E
+・Capture L Shift
+・Inventory I
 ・Menu ESC
 ・Default
 ・Back
